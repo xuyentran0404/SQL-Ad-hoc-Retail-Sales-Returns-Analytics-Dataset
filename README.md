@@ -1,4 +1,4 @@
-# SQL-Ad-hoc-Retail-Sales-Returns-Analytics-Dataset
+# [SQL Ad_hoc] Retail Sales Returns Analytics Dataset
 ---
 ## 1. Introduction 
 This dataset provides a comprehensive view of a retail business's operations over a three-year period (2015–2017). It includes detailed records of sales transactions, customer profiles, product catalog, and return data, making it an excellent foundation for conducting end-to-end business analysis.  
