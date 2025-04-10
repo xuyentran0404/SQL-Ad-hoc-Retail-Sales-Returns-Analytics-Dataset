@@ -79,14 +79,13 @@ In this project, I will write 05 queries in SQL Server Management Studio to tack
 ![image](https://github.com/user-attachments/assets/a05de7e1-83d6-4dd4-a9fa-4be2c0106c92)
 ![image](https://github.com/user-attachments/assets/852f1b28-8b17-4bc7-8fc4-e29704769db5)
 
-
 - Query results
 ![image](https://github.com/user-attachments/assets/3bbc00a7-d676-4c9c-89a1-1442117340c1)
 
-**Insights**
+**Insights**  
 - High-profit concentration: A small number of models (e.g., Mountain-200, Road-550-W) contribute the majority of overall profit, with strong margins and solid sales volume.
 - Unprofitable models: Several products (e.g., Touring-1000, Road-150, Road-750) generate high revenue but suffer from negative profit margins, indicating pricing, cost, or return issues.
 
-**Recommendations**
+**Recommendations**  
 - Double down on winners: Prioritize investment in high-performing models through increased marketing, optimized inventory, and bundling with accessories to drive higher revenue per transaction.
 - Fix or phase out poor performers: Audit unprofitable products to identify causes (e.g., costs, pricing, returns) and take action — either improve their economics or discontinue to reduce losses.
